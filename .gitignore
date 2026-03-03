@@ -1,0 +1,5 @@
+*.pdf
+*.pptx
+*RH_dataset.csv
+
+.DS_Store
