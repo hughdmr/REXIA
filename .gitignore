@@ -1,5 +1,7 @@
 *.pdf
 *.pptx
 *RH_dataset.csv
+archive/
 
 .DS_Store
+REXIA_course/
